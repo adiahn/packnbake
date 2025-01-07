@@ -91,5 +91,4 @@ export const products = [
     ],
     inStock: true
   },
-  // Add more products as needed
 ]; 
